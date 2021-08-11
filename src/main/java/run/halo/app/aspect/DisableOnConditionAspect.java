@@ -12,7 +12,7 @@ import run.halo.app.exception.ForbiddenException;
 import run.halo.app.model.enums.Mode;
 
 /**
- * 自定义注解DisableApi的切面
+ * 自定义注解 DisableApi 的切面
  *
  * @author guqing
  * @date 2020-02-14 14:08

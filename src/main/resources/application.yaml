@@ -4,6 +4,8 @@ server:
   error:
     include-message: always
 spring:
+  profiles:
+    active: dev
   devtools:
     restart:
       eanbled: false
